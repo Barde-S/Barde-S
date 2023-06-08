@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Barde-Shuaibu
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on real world projects and whatnot 
+- 💞️ I am looking forward to collaboration on real world projects  
 - 📫 How to reach me:         
 Twitter: @s_barde74     
 LinkedIn: shuaibu sani barde      
