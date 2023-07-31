@@ -1,20 +1,18 @@
-![Masterhead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_tP3bHw1DF9cgjVE4C4vJjojSzlBs3PN1g&usqp=CAU)
-<h1 align="center">Hi 👋, I'm Shuaibu Sani Barde</h1>
+![Masterhead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_tP3bHw1DF9cgjVE4C4vJjojSzlBs3PN1g&usqp=CAU](https://cdn.educba.com/academy/wp-content/uploads/2019/08/Data-Science-Tools.png))
+<h1 align="center">Hi 👋, I am Shuaibu Sani Barde</h1>
 <h3 align="center">A passionate Data Scientist and Business Analyst</h3>
 <img align="right"alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barde-s&label=Profile%20views&color=0e75b6&style=flat" alt="barde-s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barde-s" alt="barde-s" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/s_barde74" target="blank"><img src="https://img.shields.io/twitter/follow/s_barde74?logo=twitter&style=for-the-badge" alt="s_barde74" /></a> </p>
 
-- 🌱 I’m currently learning **A lots about Data Science and Business**
+- 🌱 I am currently working on **A lot of Data Science projects**
 
-- 👯 I’m looking to collaborate on **Lot's of Project**
+- 👯 I am looking to collaborate on **Projects**
 
-- 🤝 I’m looking for help with **Internship or Entry-Level roles**
+- 🤝 I am open for **Internship or Entry-Level roles**
 
 - 📫 How to reach me **mallamsz74@gmail.com**
 
