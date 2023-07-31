@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barde-s&label=Profile%20views&color=0e75b6&style=flat" alt="barde-s" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/shuaibu-sani-barde/" target="blank"><img src="https://img.shields.io/badge/-shuaibu--sani--barde-blue?logo=linkedin&style=for-the-badge" alt="shuaibu-sani-barde" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/shuaibu-sani-barde-21b835227/" target="blank"><img src="https://img.shields.io/badge/-shuaibu--sani--barde-blue?logo=linkedin&style=for-the-badge" alt="shuaibu-sani-barde" /></a> </p>
 
 - 🌱 I am currently working on **A lot of Data Science projects**
 
