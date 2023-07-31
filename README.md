@@ -1,4 +1,4 @@
-![Masterhead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_tP3bHw1DF9cgjVE4C4vJjojSzlBs3PN1g&usqp=CAU](https://cdn.educba.com/academy/wp-content/uploads/2019/08/Data-Science-Tools.png))
+![Masterhead](https://wallpaperaccess.com/full/1704476.jpg)
 <h1 align="center">Hi 👋, I am Shuaibu Sani Barde</h1>
 <h3 align="center">A passionate Data Scientist and Business Analyst</h3>
 <img align="right"alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
