@@ -13,6 +13,7 @@
 - 👯 I am looking to collaborate on **Projects**
 
 - 🤝 I am open for **Internship or Entry-Level roles**
+- Certified **Associate Data Scientist and Analyst**
 
 - 📫 How to reach me **mallamsz74@gmail.com**
 
